@@ -8,7 +8,7 @@ This repository contains all the projects completed as part of my Virtusa assign
 ## Projects Included
 
 ### 1. Library Management System (java)
-A console-based Java application to manage library operations such as adding books, issuing and returning books, and maintaining user records.
+A console-based Java application to manage library operations.
 - Refer to the detailed README file inside the project folder for a detailed explanation.
 
 ---
@@ -20,7 +20,7 @@ A Streamlit-based (ui) application that helps track daily expenses and provides 
 
 ### 3. Online Retail Sales Analysis (sql)
 A database project designed to analyze retail sales data using structured queries and relational database concepts.
-- Refer to the  detailed README file inside the project folder for schema design and SQL queries.
+- Refer to the detailed README file inside the project folder for schema design and SQL queries.
 
 ## Project Structure
 
